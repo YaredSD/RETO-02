@@ -12,7 +12,7 @@ Aún no hemos visto ciertas propiedades, pero podéis buscar temporalmente en In
   }
   
   body {
-    font-size: ?;
+    font-size: 16;
     font-family: sans-serif;
     color: white;
     background-color: black;
@@ -27,18 +27,19 @@ Aún no hemos visto ciertas propiedades, pero podéis buscar temporalmente en In
   }
   
   h1 {
-    font-size: ?;
+    font-size: 32;
     margin: 0;
   }
   
   img {
-    height: ?;
+    height: 10px;
+    max-width: 10px;
   }
   
   main {
-    max-width: ?;
+    max-width: 1000px;
     margin: 0 auto;
-    padding: ?;
+    padding: 0 auto;
     text-align: left;
   }
   
@@ -57,6 +58,6 @@ Aún no hemos visto ciertas propiedades, pero podéis buscar temporalmente en In
   
   footer {
     background-color: #999;
-    padding: ?;
+    padding: 0 auto;
     text-align: center;
   }
